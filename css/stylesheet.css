@@ -1,0 +1,18 @@
+div[class^="col-"] {
+	border: 1px dashed #aaa !important;
+
+}
+
+#housephoto {
+	background-image: url("../img/452nmorgan.jpg");
+	background-size: cover;
+	background-position: center; 
+	height: 400px;
+
+}
+#map {
+		background-image: url("../img/map.png");
+		background-size: cover;
+		background-position: center;
+		height: 200px;
+}
